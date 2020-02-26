@@ -1,0 +1,1 @@
+Hidup tak semanis madu cuy
