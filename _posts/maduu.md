@@ -1,0 +1,1 @@
+Madu rasanya manis, semoga hidupku bisa semanis madu.
