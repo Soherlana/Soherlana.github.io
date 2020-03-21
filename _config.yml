@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Herlana"
-  avatar           : "test/assets/images/apple-touch-icon.png"
+  avatar           : "/test/assets/images/apple-touch-icon.png"
   bio              : "I am an **amazing** person."
   location         : "Polban's Dormitory"
   email            : hrlana1312@gmail.com
