@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.19.1"
-minimal_mistakes_skin  : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin  : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "HerLana"
+  name             : "HerLanaa"
   #avatar           : "/test/assets/images/3953273590_704e3899d5_m.jpg"
   bio              : "I am an **amazing** person."
   location         : "Polban's Dormitory"
