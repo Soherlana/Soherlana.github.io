@@ -12,11 +12,11 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.19.1"
-minimal_mistakes_skin  : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin  : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blog Pribadi"
+title                    : "Blogger"
 title_separator          : "-"
 #subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Herlana"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "HerLana"
-  avatar           : "/test/assets/images/3953273590_704e3899d5_m.jpg"
+  #avatar           : "/test/assets/images/3953273590_704e3899d5_m.jpg"
   bio              : "I am an **amazing** person."
   location         : "Polban's Dormitory"
   email            : hrlana1312@gmail.com
